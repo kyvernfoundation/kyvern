@@ -28,6 +28,6 @@ Some of our conferences are free of charge. If you'd like to meet us in person, 
 - Or to see our other news.
 ## RGPD and data protection
 - The data you transmit to Kyvern remains within the organization and is not shared with anyone else.
-- At any time you can see what data we hold about you and request its deletion here rgpd@kyvern.org
+- At any time you can see what data we hold about you and request its deletion here rgpd@kyvern.org.
 ## Contact
-If you have any questions or requests: contact@kyvern.org
+If you have any questions or requests: contact@kyvern.org.
