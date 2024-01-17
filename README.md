@@ -1,4 +1,4 @@
-If you want to improve your cybersecurity, here's what you need to know.
+If you want to improve your cybersecurity, here's [what you need to know](https://github.com/kyvernfoundation/kyvern/tree/main/courses).
 
 # Kyvern
 Kyvern comes from the Greek word κυβερνασφάλεια (pronounced kyvernasfaleia) meaning cybersecurity.
