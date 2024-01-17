@@ -23,7 +23,7 @@ Kyvern comes from the Greek word κυβερνασφάλεια (pronounced kyvern
 ## Conferences
 Some of our conferences are free of charge. If you'd like to meet us in person, now's your chance.
 ## News
-- If you'd like to see all the latest news from the Kyvern Foundation.
+- If you'd like to see all [the latest news from the Kyvern Foundation](https://github.com/kyvernfoundation/news).
 - If you're only interested in our cybersecurity analysis and advice.
 - Or to see our other news.
 ## RGPD and data protection
