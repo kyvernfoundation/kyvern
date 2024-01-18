@@ -24,3 +24,8 @@ Which password manager do we recommend? And why you need to have a password mana
 - There are KeePass apps on iOS too.
 ## More
 - Wide range of customization options.
+# Password
+You've decided to take KeePass, that's good. Good passwords are even better.
+## Let KeePass create your passwords
+You've got the best manager there is, and if you use it correctly, you'll exploit its full power.
+> We could teach you what a good password is, but if we teach you how to use KeePass optimally, we'll all save time and you'll understand along the way.
