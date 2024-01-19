@@ -1,8 +1,6 @@
 # VPN
 Which VPN do we recommend? And why you have to have a VPN.
 ## why you have to have a VPN
-## Mozilla VPN
-[Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/)
 ## Proton VPN
 [Proton VPN](https://protonvpn.com)
 - Free, and paying offers if you want to go further.
