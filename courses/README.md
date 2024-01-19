@@ -7,4 +7,7 @@ Having the right [password manager](https://github.com/kyvernfoundation/kyvern/b
 ## Strong authentification
 Want to shine in society? Talk about [strong authentication](https://github.com/kyvernfoundation/kyvern/blob/main/courses/strongauthentication.md), not two-factor or multi-factor authentication. We explain why.
 ## VPN
+I want the [best vpn](https://github.com/kyvernfoundation/kyvern/blob/main/courses/vpn.md) available.
+#### Why have a door for your home if you don't have a door for your Internet use? It doesn't cost anything and the benefits are there, so it's hard to beat it.
+> You can skip this point if you're not convinced, but your safety won't be convincing either.
 ## Best practices
