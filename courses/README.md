@@ -5,5 +5,6 @@ Your cybersecurity is simple, there are just a few key points to apply.
 Having the right [password manager](https://github.com/kyvernfoundation/kyvern/blob/main/courses/passwordmanager.md) and good passwords are just as important, one can't go without the other.
 > That's why [passwords](https://github.com/kyvernfoundation/kyvern/blob/main/courses/passwordmanager.md#password) are explained on the same page.
 ## Strong authentification
+Want to shine in society? Talk about [strong authentication](https://github.com/kyvernfoundation/kyvern/blob/main/courses/strongauthentication.md), not two-factor or multi-factor authentication. We explain why.
 ## VPN
 ## Best practices
