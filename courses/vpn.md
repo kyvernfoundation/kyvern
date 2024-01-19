@@ -6,4 +6,3 @@ Which VPN do we recommend? And why you have to have a VPN.
 - Privacy by default, it doesn't sell our data, and that's cool.
 - Located in Switzerland
 - Open source and autited
-## Why you have to have a VPN
