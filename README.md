@@ -24,7 +24,7 @@ Kyvern comes from the Greek word κυβερνασφάλεια (pronounced kyvern
 Some of [our conferences](https://github.com/kyvernfoundation/conferences) are free of charge. If you'd like to meet us in person, now's your chance.
 ## News
 - If you'd like to see all [the latest news from the Kyvern Foundation](https://github.com/kyvernfoundation/news).
-- If you're only interested in our cybersecurity analysis and advice.
+- If you're only interested in [news from Kyvern's cybersecurity department](https://github.com/kyvernfoundation/kyvern/tree/main/news).
 - Or to see our other news.
 ## RGPD and data protection
 - The data you transmit to Kyvern remains within the organization and is not shared with anyone else.
