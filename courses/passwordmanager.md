@@ -48,3 +48,8 @@ On the official KeePass website, [https://keepassxc.org](https://keepassxc.org) 
 - Save your database file.
 > Congratulations, you have just created your password manager.
 ### Let KeePass create your passwords
+
+## Best practice
+- Back up your database on at least two different media. On the cloud and on a USB key, for example.
+  - Do your back-up after each modification of your database.
+- If you'd like to help someone you know strengthen their security, share this tutorial with them, so they're up to date with the latest updates and you don't risk compromising yourself.
