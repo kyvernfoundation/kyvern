@@ -34,3 +34,16 @@ You've got the best manager there is, and if you use it correctly, you'll exploi
 ## Configuring your KeePassXC
 ### Install KeePassXC
 On the official KeePass website, [https://keepassxc.org](https://keepassxc.org) if you're installing it on Windows, MacOS or Linux.
+### Create your database
+- The longer the decryption time, the greater your protection.
+- Database format: KDBX 4 (recommended)
+- Advanced settings
+  - Encryption algorithm: AES 256-bit (recommended)
+  - Key derivation function (KDF) : Argon2d [KDBX 4 - recommended)
+#### Confirm and go to next step
+- Enter a password (recommended)
+- Add another protection (highly recommended) such as a YubiKey or OnlyKey
+#### Confirm and go to next step
+- Save your database file
+> Congratulations, you have just created your password manager.
+### Let KeePass create your passwords
