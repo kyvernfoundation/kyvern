@@ -11,7 +11,7 @@ Strong authentication is based on cryptographic mechanisms deemed to be strong, 
 - Your password (see [kyvern/courses/passwordmanager](https://github.com/kyvernfoundation/kyvern/blob/main/courses/passwordmanager.md)).
   - It says nothing about you.
   - one account, one password.
-  - The better the entropy, the stronger your password. The higher the entropy, the stronger your password. Add the most random characters with the highest length and let KeePass remember your password.
+  - The better the entropy, the stronger your password. Add the most random characters with the highest length and let KeePass remember your password.
     - For your security, we recommend that you do not display your password. That way, nobody knows it, only your KeePass.
   - Never put it anywhere else but where you want to connect.
 - Security keys must comply with the FIDO2 standard.
