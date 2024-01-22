@@ -4,15 +4,15 @@ Which password manager do we recommend? And why you need to have a password mana
 ## Security
 - Free forever.
 - KeePass is recommended by ANSSI.
-- With KeePassXC you can get better entropy than ProtonPass, for example.
+- With KeePass you can get better entropy than ProtonPass, for example.
 - You can lock your manager with security keys such as Yubikey and others. It's a significant added security feature.
 - Passwords can also be accessed offline.
 - The ability to add unusual characters to passwords.
 > Tips: Back up your manager on at least two media. One physical medium and another in the cloud, for example, is good practice.
 ## Licence
-- KeePassXC is licensed under GPL-2 and GPL-3 among others, which are the best licenses for free software.
+- KeePass is licensed under GPL-2 and GPL-3 among others, which are the best licenses for free software.
 ## Team
-- KeePassXC is still actively maintained by the team.
+- KeePass is still actively maintained by the team.
 ## Mobile application
 - [KeePassDX](https://www.keepassdx.com/) on Android is the perfect manager for smartphones.
   - Which is still actively maintained.
@@ -31,9 +31,10 @@ You've decided to take KeePass, that's good. Good passwords are even better.
 ## Let KeePass create your passwords
 You've got the best manager there is, and if you use it correctly, you'll exploit its full power.
 > We could teach you what a good password is, but if we teach you how to use KeePass optimally, we'll all save time and you'll understand along the way.
-## Configuring your KeePassXC
-### Install KeePassXC
-On the official KeePass website, [https://keepassxc.org](https://keepassxc.org) if you're installing it on Windows, MacOS or Linux.
+## Configuring your KeePass
+### Install KeePass
+On the official KeePassXC website, [https://keepassxc.org](https://keepassxc.org) if you're installing it on Windows, MacOS, Linux.
+Or [KeePass](https://keepass.info)
 ### Create your database
 - The longer the decryption time, the greater your protection.
 - Database format: KDBX 4 (recommended).
