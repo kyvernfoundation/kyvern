@@ -14,7 +14,7 @@ Which password manager do we recommend? And why you need to have a password mana
 ## Team
 - KeePassXC is still actively maintained by the team.
 ## Mobile application
-- [KeePassDX](https://www.keepassdx.com/) on Android is the perfect manager for smartphones, and integrates perfectly with KeePassXC.
+- [KeePassDX](https://www.keepassdx.com/) on Android is the perfect manager for smartphones.
   - Which is still actively maintained.
   - Easy to use.
   - No loss of functionality compared to KeePass.
@@ -33,4 +33,4 @@ You've got the best manager there is, and if you use it correctly, you'll exploi
 > We could teach you what a good password is, but if we teach you how to use KeePass optimally, we'll all save time and you'll understand along the way.
 ## Configuring your KeePassXC
 ### Install KeePassXC
-On the official KeePass website, [https://keepassxc.org](https://keepassxc.org) if you're installing it on MacOS, Windows or Linux.
+On the official KeePass website, [https://keepassxc.org](https://keepassxc.org) if you're installing it on Windows, MacOS or Linux.
