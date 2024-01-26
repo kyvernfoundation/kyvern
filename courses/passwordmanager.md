@@ -49,7 +49,7 @@ Or [KeePass](https://keepass.info)
 - Save your database file.
 > Congratulations, you have just created your password manager.
 ### Let KeePass create your passwords
-
+If you have any questions, please do not hesitate to contact us.
 ## Best practice
 - Back up your database on at least two different media. On the cloud and on a USB key, for example.
   - Do your back-up after each modification of your database.
