@@ -3,7 +3,7 @@ Which password manager do we recommend? And why you need to have a password mana
 > [KeePassXC](https://keepassxc.org/) is by far the best, let's tell you why.
 ## Security
 - Free forever.
-- KeePass is recommended by serious organizations. [https://keepass.info/ratings.html](https://keepass.info/ratings.html)
+- KeePass is recommended by serious organizations: [https://keepass.info/ratings.html](https://keepass.info/ratings.html).
 - With KeePass you can get better entropy than ProtonPass, for example.
 - You can lock your manager with security keys such as Yubikey and others. It's a significant added security feature.
 - Passwords can also be accessed offline.
