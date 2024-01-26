@@ -15,6 +15,7 @@ I want the [best vpn](https://github.com/kyvernfoundation/kyvern/blob/main/cours
 #### Why have a door for your home if you don't have a door for your Internet use? It doesn't cost anything and the benefits are there, so it's hard to beat it.
 > You can skip this point if you're not convinced, but your safety won't be convincing either.
 ## Best practices
+With simplelogin ([website](https://simplelogin.io)), you can have an alias of one e-mail address per application. (recommended)
 - Be sure of what you're downloading.
 - Only talk to people you trust.
 - There's no rush, just take the time to think about what you're doing.
