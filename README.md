@@ -4,6 +4,7 @@ If you want to improve your cybersecurity, here's [what you need to know](https:
 Kyvern comes from the Greek word κυβερνασφάλεια (pronounced kyvernasfaleia) meaning cybersecurity.
 - Our mission is for every Internet user to be able to secure their digital data.
 > The freedom of Internet users depends on the security of each individual.
+Your cybersecurity will no longer be an illusion.
 ## Certified Individual Cybersecurity (Kyvern CIC)
 - This free certification is awarded by the Kyvern Foundation after auditing and validating the holder's cybersecurity.
 - What does the audit involve?
