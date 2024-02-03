@@ -6,4 +6,4 @@ Proton VPN [website](https://protonvpn.com) [GitHub](https://github.com/ProtonVP
 - Privacy by default, it doesn't sell our data, and that's cool.
 - Located in Switzerland
 - Open source and autited
-- Available on Linux, Windows, macOS, iPhone, iPad, Android, F-Droid, Firefox, Chrome, Android TV, Chromebook.
+- Available on Linux, Windows, macOS, iPhone, iPad, Android, F-Droid, Firefox, Chrome, AndroidTV, Chromebook, Chromecast, Firestick, FireTV.
