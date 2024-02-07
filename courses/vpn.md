@@ -30,4 +30,6 @@ Proton VPN is a highly recommended VPN service for the following reasons:
 
 - **Open source and audited**: The source code of Proton VPN is open and has been audited, which means you can trust its security and reliability.
 
-- **Availability on multiple platforms**: Proton VPN is available on Linux, Windows, macOS, iPhone, iPad, Android, F-Droid, Firefox, Chrome, AndroidTV, Chromebook, Chromecast, Firestick, FireTV. This means you can protect your privacy and security on almost all devices you own.
+- **Availability on multiple platforms**: Proton VPN is available on Linux, Windows, macOS, iPhone, iPad, Android, F-Droid, Firefox, Chrome, AndroidTV, Chromebook, Chromecast, Firestick, FireTV.
+    - You can also use your computer or phone as a router access point to enable devices that don't have Proton VPN, such as the Xbox, to be secured on the VPN network.
+This means you can protect your privacy and security on almost all devices you own.
