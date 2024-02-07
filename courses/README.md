@@ -1,5 +1,5 @@
 # Courses
-Your cybersecurity is simple, there are just a few key points to apply.
+Securing your digital presence can be simple if you apply a few key principles.
 > You need to analyze the risks of not being safe. You can skip certain points, but be aware that it's your safety that's skipped along with them.
 ## Risk analysis
 Risk analysis depends on your environment, your tools and your potential hazards.
