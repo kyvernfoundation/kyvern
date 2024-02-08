@@ -26,7 +26,6 @@ Some of [our conferences](https://github.com/kyvernfoundation/conferences) are f
 ## News
 - If you'd like to see all [the latest news from the Kyvern Foundation](https://github.com/kyvernfoundation/news).
 - If you're only interested in [news from Kyvern's cybersecurity department](https://github.com/kyvernfoundation/kyvern/tree/main/news).
-- Or to see our other news.
 ## RGPD and data protection
 - The data you transmit to Kyvern remains within the organization and is not shared with anyone else.
 - At any time you can see what data we hold about you and request its deletion here rgpd@kyvern.org.
