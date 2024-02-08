@@ -23,8 +23,6 @@ Your cybersecurity will no longer be an illusion.
 - Certified Cybersecurity Employee (Kyvern CCE)
   - Every employee of an organization, in agreement with their employer, can improve their cybersecurity with this certification.
   - To receive a presentation, please contact us at cce@kyvern.org.
-## Conferences
-Some of [our conferences](https://github.com/kyvernfoundation/conferences) are free of charge. If you'd like to meet us in person, now's your chance.
 ## News
 - If you'd like to see all [the latest news from the Kyvern Foundation](https://github.com/kyvernfoundation/news).
 - If you're only interested in [news from Kyvern's cybersecurity department](https://github.com/kyvernfoundation/kyvern/tree/main/news).
