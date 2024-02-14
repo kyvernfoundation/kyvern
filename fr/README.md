@@ -1,5 +1,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+## Traductions
+Pour lire dans votre langue :
+[English version 🇺🇸](https://github.com/kyvernfoundation/kyvern)
 
+## Tutoriel
 👉 Si vous voulez améliorer votre cybersécurité, voici [ce que vous devez savoir](https://github.com/kyvernfoundation/kyvern/fr/tree/main/cours).
 
 # Kyvern
