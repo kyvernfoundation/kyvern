@@ -19,5 +19,14 @@ Votre cybersécurité ne sera plus une illusion.
 - Notre objectif est de vous informer et de vous former pour renforcer votre cybersécurité.
 - Cette certification ne concerne que la cybersécurité d'un individu ; cela ne certifie pas la cybersécurité de l'individu dans le cadre de son travail.
 - Pour l'obtenir, ou si vous avez des questions, veuillez nous contacter à l'adresse suivante : cic@kyvern.org.
+## Abonnements payants
+- FastPass
+	- Si vous n'avez pas le temps d'apprendre et d'appliquer nos conseils. Notre équipe met en place votre solution de cybersécurité en fonction de vos besoins. Vous bénéficiez également d'un support prioritaire.
+- Club Kyvern
+	- En rejoignant le Club Kyvern vous accéderez à des événements premium et vous bénéficiez d'avantages supplémentaires.
+## Certifications payantes
+- Employé certifié en cybersécurité (Kyvern CCE)
+  - Chaque employé d'une organisation, en accord avec son employeur, peut améliorer sa cybersécurité grâce à cette certification.
+  - Pour recevoir une présentation, veuillez nous contacter à l'adresse cce@kyvern.org.
 ## Contact
 Si vous avez des questions ou des demandes : contact@kyvern.org.
