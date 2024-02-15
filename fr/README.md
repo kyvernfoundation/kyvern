@@ -19,3 +19,5 @@ Votre cybersécurité ne sera plus une illusion.
 - Notre objectif est de vous informer et de vous former pour renforcer votre cybersécurité.
 - Cette certification ne concerne que la cybersécurité d'un individu ; cela ne certifie pas la cybersécurité de l'individu dans le cadre de son travail.
 - Pour l'obtenir, ou si vous avez des questions, veuillez nous contacter à l'adresse suivante : cic@kyvern.org.
+## Contact
+Si vous avez des questions ou des demandes : contact@kyvern.org.
