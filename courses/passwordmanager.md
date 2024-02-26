@@ -9,7 +9,7 @@ Which password manager do we recommend? And why you need to have a password mana
 - Passwords can also be accessed offline.
 - The ability to add unusual characters to passwords.
 > Tips: Back up your manager on at least two media. One physical medium and another in the cloud, for example, is good practice.
-## Licence
+## License
 - KeePass is licensed under GPL-2 and GPL-3 among others, which are the best licenses for free software.
 ## Team
 - KeePass is still actively maintained by the team.
