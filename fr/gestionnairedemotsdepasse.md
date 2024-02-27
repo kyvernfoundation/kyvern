@@ -13,3 +13,12 @@ Quel gestionnaire de mots de passe recommandons-nous ? Et pourquoi vous devez av
 - KeePass est sous licence GPL-2 et GPL-3 entre autres, qui sont les meilleures licences pour les logiciels libres.
 ## L'équipe
 - KeePass est toujours activement maintenu par l'équipe.
+## Application mobile
+- [KeePassDX](https://www.keepassdx.com/) sur Android est le gestionnaire parfait pour les smartphones.
+  - Elle est toujours activement maintenue.
+  - Facile à utiliser.
+  - Aucune perte de fonctionnalité par rapport à KeePass.
+  - Gratuit pour toujours.
+  - Nombreuses options de personnalisation.
+  - Licence GPL-3.
+- Il existe également des applications KeePass pour iOS.
