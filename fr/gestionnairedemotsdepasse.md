@@ -26,3 +26,8 @@ Quel gestionnaire de mots de passe recommandons-nous ? Et pourquoi vous devez av
 - Large éventail d'options de personnalisation.
 - Différences entre KeePass et KeePassXC
   - KeePassXC a une interface moderne, ce qui n'est pas le cas de Keepass. Entre les deux, prenez ce qui vous plaît. Ce sont les deux faces d'une même pièce.
+# Mot de passe
+Vous avez décidé de prendre KeePass, c'est bien. De bons mots de passe, c'est encore mieux.
+## Laissez KeePass créer vos mots de passe
+Vous avez le meilleur gestionnaire qui soit, et si vous l'utilisez correctement, vous en exploiterez toute la puissance.
+> Nous pourrions vous apprendre ce qu'est un bon mot de passe, mais si nous vous apprenons à utiliser KeePass de manière optimale, nous gagnerons tous du temps et vous comprendrez en même temps.
