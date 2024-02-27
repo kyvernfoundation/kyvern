@@ -31,8 +31,8 @@ Vous avez décidé de prendre KeePass, c'est bien. De bons mots de passe, c'est 
 ## Laissez KeePass créer vos mots de passe
 Vous avez le meilleur gestionnaire qui soit, et si vous l'utilisez correctement, vous en exploiterez toute la puissance.
 > Nous pourrions vous apprendre ce qu'est un bon mot de passe, mais si nous vous apprenons à utiliser KeePass de manière optimale, nous gagnerons tous du temps et vous comprendrez en même temps.
-## Configurer votre KeePass
-### Installer KeePass
+## Configurez votre KeePass
+### Installez KeePass
 Sur le site officiel de KeePassXC, [https://keepassxc.org](https://keepassxc.org) si vous l'installez sur Windows, MacOS, Linux.
 Ou [KeePass](https://keepass.info)
 ### Créez votre base de données
@@ -41,7 +41,16 @@ Ou [KeePass](https://keepass.info)
 - Paramètres avancés
   - Algorithme de cryptage : AES 256 bits (recommandé).
   - Fonction de dérivation de clé (KDF) : Argon2d [KDBX 4 - recommandé].
-#### Confirmer et passer à l'étape suivante
+#### Confirmez et passez à l'étape suivante
 - Entrez un mot de passe (recommandé).
 - Ajoutez une autre protection (fortement recommandée) telle qu'une YubiKey ou une OnlyKey.
 > L'importance de l'[authentification forte](https://github.com/kyvernfoundation/kyvern/XXX).
+#### Confirmez et passez à l'étape suivante
+- Enregistrez votre fichier de base de données.
+> Félicitations, vous venez de créer votre gestionnaire de mots de passe.
+### Laissez KeePass créer vos mots de passe
+Si vous avez des questions, n'hésitez pas à nous contacter.
+## Meilleure pratique
+- Sauvegardez votre base de données sur au moins deux supports différents. Sur le cloud et sur une clé USB, par exemple.
+  - Effectuez votre sauvegarde après chaque modification de votre base de données.
+- Si vous souhaitez aider une personne de votre entourage à renforcer sa sécurité, partagez ce tutoriel avec elle, afin qu'elle soit au courant des dernières mises à jour et que vous ne risquiez pas de vous compromettre.
