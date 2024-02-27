@@ -22,3 +22,7 @@ Quel gestionnaire de mots de passe recommandons-nous ? Et pourquoi vous devez av
   - Nombreuses options de personnalisation.
   - Licence GPL-3.
 - Il existe également des applications KeePass pour iOS.
+## Plus
+- Large éventail d'options de personnalisation.
+- Différences entre KeePass et KeePassXC
+  - KeePassXC a une interface moderne, ce qui n'est pas le cas de Keepass. Entre les deux, prenez ce qui vous plaît. Ce sont les deux faces d'une même pièce.
