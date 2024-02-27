@@ -41,3 +41,7 @@ Ou [KeePass](https://keepass.info)
 - Paramètres avancés
   - Algorithme de cryptage : AES 256 bits (recommandé).
   - Fonction de dérivation de clé (KDF) : Argon2d [KDBX 4 - recommandé].
+#### Confirmer et passer à l'étape suivante
+- Entrez un mot de passe (recommandé).
+- Ajoutez une autre protection (fortement recommandée) telle qu'une YubiKey ou une OnlyKey.
+> L'importance de l'[authentification forte](https://github.com/kyvernfoundation/kyvern/XXX).
