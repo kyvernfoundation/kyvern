@@ -7,4 +7,4 @@ L'analyse des risques dépend de votre environnement, de vos outils et de vos da
 - À l'avenir, nous prévoyons de produire des scénarios qui serviront d'exemples.
 ## Gestionnaire de mots de passe
 Il est tout aussi important d'avoir le bon [gestionnaire de mots de passe](https://github.com/kyvernfoundation/kyvern/blob/main/fr/gestionnairedemotsdepasse.md) et de bons mots de passe, l'un ne va pas sans l'autre.
-> C'est pourquoi les [mots de passe](https://github.com/kyvernfoundation/kyvern/XXX) sont expliqués sur la même page.
+> C'est pourquoi les [mots de passe](https://github.com/kyvernfoundation/kyvern/blob/main/fr/gestionnairedemotsdepasse.md#mot-de-passe) sont expliqués sur la même page.
