@@ -31,3 +31,7 @@ Vous avez décidé de prendre KeePass, c'est bien. De bons mots de passe, c'est 
 ## Laissez KeePass créer vos mots de passe
 Vous avez le meilleur gestionnaire qui soit, et si vous l'utilisez correctement, vous en exploiterez toute la puissance.
 > Nous pourrions vous apprendre ce qu'est un bon mot de passe, mais si nous vous apprenons à utiliser KeePass de manière optimale, nous gagnerons tous du temps et vous comprendrez en même temps.
+## Configurer votre KeePass
+### Installer KeePass
+Sur le site officiel de KeePassXC, [https://keepassxc.org](https://keepassxc.org) si vous l'installez sur Windows, MacOS, Linux.
+Ou [KeePass](https://keepass.info)
