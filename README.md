@@ -1,4 +1,4 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/kyvernfoundation/kyvern?tab=GPL-3.0-1-ov-file)
 ## Translations
 To read in your language :
 [Version francophone 🇫🇷](https://github.com/kyvernfoundation/kyvern/tree/main/fr)
