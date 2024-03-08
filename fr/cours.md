@@ -14,3 +14,13 @@ Vous voulez briller en société ? Parlez d'[authentification forte](https://git
 Je veux le [meilleur vpn](https://github.com/kyvernfoundation/kyvern/blob/main/fr/vpn.md) disponible.
 #### Pourquoi avoir une porte pour votre maison si vous n'avez pas de porte pour votre utilisation d'Internet ? Cela ne coûte rien et les avantages sont là, il est donc difficile de faire mieux.
 > Vous pouvez sauter ce point si vous n'êtes pas convaincu, mais votre sécurité ne sera pas convaincante non plus.
+## Meilleures pratiques
+Avec simplelogin ([site web](https://simplelogin.io)), vous pouvez avoir un alias d'une adresse e-mail par application. (recommandé)
+- Soyez sûr de ce que vous téléchargez.
+- Ne parlez qu'à des personnes de confiance.
+- Il n'y a pas d'urgence, prenez le temps de réfléchir à ce que vous faites.
+- Supprimez les comptes, les services et les applications que vous n'utilisez plus.
+- Mettez à jour tous vos logiciels.
+- N'étalez pas votre vie sur internet.
+- Restez vigilant.
+- Faites des sauvegardes régulières de vos données importantes.
