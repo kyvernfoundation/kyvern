@@ -10,3 +10,7 @@ Il est tout aussi important d'avoir le bon [gestionnaire de mots de passe](https
 > C'est pourquoi les [mots de passe](https://github.com/kyvernfoundation/kyvern/blob/main/fr/gestionnairedemotsdepasse.md#mot-de-passe) sont expliqués sur la même page.
 ## Authentification forte
 Vous voulez briller en société ? Parlez d'[authentification forte](https://github.com/kyvernfoundation/kyvern/blob/main/fr/authentificationforte.md), et non d'authentification à deux ou plusieurs facteurs. Nous vous expliquons pourquoi.
+## VPN
+Je veux le [meilleur vpn](https://github.com/kyvernfoundation/kyvern/blob/main/fr/vpn.md) disponible.
+#### Pourquoi avoir une porte pour votre maison si vous n'avez pas de porte pour votre utilisation d'Internet ? Cela ne coûte rien et les avantages sont là, il est donc difficile de faire mieux.
+> Vous pouvez sauter ce point si vous n'êtes pas convaincu, mais votre sécurité ne sera pas convaincante non plus.
