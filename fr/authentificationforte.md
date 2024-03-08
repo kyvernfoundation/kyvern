@@ -8,7 +8,7 @@ L'authentification forte est basée sur des mécanismes cryptographiques consid�
   - Activer votre clé de sécurité biométrique en la touchant.
 > L'authentification forte consiste à combiner ces trois points : un secret que vous connaissez, quelque chose que vous possédez, quelque chose que vous êtes ou que vous faites.
 ### L'authentification forte est basée sur des mécanismes cryptographiques considérés comme forts.
-- Votre mot de passe (voir [kyvern/cours/gestionnairedemotsdepasse](https://github.com/kyvernfoundation/kyvern/blob/main/fr/gestionnairedemotsdepasse.md)).
+- Votre mot de passe (voir [kyvern/fr/gestionnairedemotsdepasse](https://github.com/kyvernfoundation/kyvern/blob/main/fr/gestionnairedemotsdepasse.md)).
   - Il ne dit rien de vous.
   - Un compte, un mot de passe.
   - Plus l'entropie est élevée, plus votre mot de passe est fort. Ajoutez le plus grand nombre de caractères aléatoires avec la plus grande longueur et laissez KeePass se souvenir de votre mot de passe.
