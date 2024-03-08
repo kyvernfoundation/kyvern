@@ -50,7 +50,7 @@ Or [KeePass](https://keepass.info)
 > Congratulations, you have just created your password manager.
 ### Let KeePass create your passwords
 If you have any questions, please do not hesitate to contact us.
-## Best practice
+## Best practices
 - Back up your database on at least two different media. On the cloud and on a USB key, for example.
   - Do your back-up after each modification of your database.
 - If you'd like to help someone you know strengthen their security, share this tutorial with them, so they're up to date with the latest updates and you don't risk compromising yourself.
