@@ -50,7 +50,7 @@ Ou [KeePass](https://keepass.info)
 > Félicitations, vous venez de créer votre gestionnaire de mots de passe.
 ### Laissez KeePass créer vos mots de passe
 Si vous avez des questions, n'hésitez pas à nous contacter.
-## Meilleure pratique
+## Meilleures pratiques
 - Sauvegardez votre base de données sur au moins deux supports différents. Sur le cloud et sur une clé USB, par exemple.
   - Effectuez votre sauvegarde après chaque modification de votre base de données.
 - Si vous souhaitez aider une personne de votre entourage à renforcer sa sécurité, partagez ce tutoriel avec elle, afin qu'elle soit au courant des dernières mises à jour et que vous ne risquiez pas de vous compromettre.
