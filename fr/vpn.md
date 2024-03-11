@@ -17,3 +17,5 @@ Si vous cherchez un VPN qui allie confidentialité, sécurité et liberté, je v
 <a href="https://protonvpn.com">
     <img src="https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233227/static/logos/proton-vpn-trademark_xiobqc.svg" alt="Proton VPN" width="200"/>
 </a>
+
+Proton VPN est un service VPN hautement recommandé pour les raisons suivantes :
