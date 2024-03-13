@@ -44,7 +44,7 @@ Ou [KeePass](https://keepass.info)
 #### Confirmez et passez à l'étape suivante
 - Entrez un mot de passe (recommandé).
 - Ajoutez une autre protection (fortement recommandée) telle qu'une YubiKey ou une OnlyKey.
-> L'importance de l'[authentification forte](https://github.com/kyvernfoundation/kyvern/XXX).
+> L'importance de l'[authentification forte](https://github.com/kyvernfoundation/kyvern/blob/main/fr/cours/authentificationforte.md).
 #### Confirmez et passez à l'étape suivante
 - Enregistrez votre fichier de base de données.
 > Félicitations, vous venez de créer votre gestionnaire de mots de passe.
