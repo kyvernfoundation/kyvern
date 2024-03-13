@@ -34,7 +34,7 @@ You've got the best manager there is, and if you use it correctly, you'll exploi
 ## Configuring your KeePass
 ### Install KeePass
 On the official KeePassXC website, [https://keepassxc.org](https://keepassxc.org) if you're installing it on Windows, MacOS, Linux.
-Or [KeePass](https://keepass.info)
+Or [KeePass](https://keepass.info).
 ### Create your database
 - The longer the decryption time, the greater your protection.
 - Database format: KDBX 4 (recommended).
