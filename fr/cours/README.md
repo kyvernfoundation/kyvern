@@ -6,12 +6,12 @@ L'analyse des risques dépend de votre environnement, de vos outils et de vos da
 - Nous proposons gratuitement notre analyse des risques à toute personne souhaitant évaluer ses besoins en matière de sécurité. Pour en faire la demande, contactez-nous à l'adresse riskanalysis@kyvern.org.
 - À l'avenir, nous prévoyons de produire des scénarios qui serviront d'exemples.
 ## Gestionnaire de mots de passe
-Il est tout aussi important d'avoir le bon [gestionnaire de mots de passe](https://github.com/kyvernfoundation/kyvern/blob/main/fr/gestionnairedemotsdepasse.md) et de bons mots de passe, l'un ne va pas sans l'autre.
-> C'est pourquoi les [mots de passe](https://github.com/kyvernfoundation/kyvern/blob/main/fr/gestionnairedemotsdepasse.md#mot-de-passe) sont expliqués sur la même page.
+Il est tout aussi important d'avoir le bon [gestionnaire de mots de passe](https://github.com/kyvernfoundation/kyvern/blob/main/fr/cours/gestionnairedemotsdepasse.md) et de bons mots de passe, l'un ne va pas sans l'autre.
+> C'est pourquoi les [mots de passe](https://github.com/kyvernfoundation/kyvern/blob/main/fr/cours/gestionnairedemotsdepasse.md#mot-de-pass) sont expliqués sur la même page.
 ## Authentification forte
-Vous voulez briller en société ? Parlez d'[authentification forte](https://github.com/kyvernfoundation/kyvern/blob/main/fr/authentificationforte.md), et non d'authentification à deux ou plusieurs facteurs. Nous vous expliquons pourquoi.
+Vous voulez briller en société ? Parlez d'[authentification forte](https://github.com/kyvernfoundation/kyvern/blob/main/fr/cours/authentificationforte.md), et non d'authentification à deux ou plusieurs facteurs. Nous vous expliquons pourquoi.
 ## VPN
-Je veux le [meilleur vpn](https://github.com/kyvernfoundation/kyvern/blob/main/fr/vpn.md) disponible.
+Je veux le [meilleur vpn](https://github.com/kyvernfoundation/kyvern/blob/main/fr/cours/vpn.md) disponible.
 #### Pourquoi avoir une porte pour votre maison si vous n'avez pas de porte pour votre utilisation d'Internet ? Cela ne coûte rien et les avantages sont là, il est donc difficile de faire mieux.
 > Vous pouvez sauter ce point si vous n'êtes pas convaincu, mais votre sécurité ne sera pas convaincante non plus.
 ## Meilleures pratiques
