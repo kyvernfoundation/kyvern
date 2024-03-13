@@ -4,7 +4,7 @@ Pour lire dans votre langue :
 [English version 🇺🇸](https://github.com/kyvernfoundation/kyvern)
 
 ## Tutoriel
-👉 Si vous voulez améliorer votre cybersécurité, voici [ce que vous devez savoir](https://github.com/kyvernfoundation/kyvern/blob/main/fr/cours.md).
+👉 Si vous voulez améliorer votre cybersécurité, voici [ce que vous devez savoir](https://github.com/kyvernfoundation/kyvern/tree/main/fr/cours).
 
 # Kyvern
 Kyvern vient du mot grec κυβερνασφάλεια (prononcé kyvernasfaleia) qui signifie cybersécurité.
