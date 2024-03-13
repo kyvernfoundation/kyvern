@@ -34,7 +34,7 @@ Vous avez le meilleur gestionnaire qui soit, et si vous l'utilisez correctement,
 ## Configurez votre KeePass
 ### Installez KeePass
 Sur le site officiel de KeePassXC, [https://keepassxc.org](https://keepassxc.org) si vous l'installez sur Windows, MacOS, Linux.
-Ou [KeePass](https://keepass.info)
+Ou [KeePass](https://keepass.info).
 ### Créez votre base de données
 - Plus le temps de décryptage est long, plus votre protection est grande.
 - Format de la base de données : KDBX 4 (recommandé).
