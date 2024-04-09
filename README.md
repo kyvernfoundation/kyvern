@@ -1,4 +1,3 @@
-## Translations
 [Version francophone 🇫🇷](https://github.com/kyvernfoundation/kyvern/tree/main/fr)
 
 ## Tutorial
