@@ -1,4 +1,4 @@
-[Version francophone 🇫🇷](https://github.com/kyvernfoundation/kyvern/tree/main/fr)
+🌐 [Version francophone](https://github.com/kyvernfoundation/kyvern/tree/main/fr)
 
 ## Tutorial
 👉 If you want to improve your cybersecurity, here's [what you need to know](https://github.com/kyvernfoundation/kyvern/tree/main/courses).
