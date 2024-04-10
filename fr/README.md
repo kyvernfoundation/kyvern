@@ -1,4 +1,4 @@
-🌐 [English version](https://github.com/kyvernfoundation/kyvern)
+🌐 [English version](https://github.com/kyvernfoundation/kyvern) / [Русская версия](https://github.com/kyvernfoundation/kyvern/tree/main/ru)
 
 ## Tutoriel
 👉 Si vous voulez améliorer votre cybersécurité, voici [ce que vous devez savoir](https://github.com/kyvernfoundation/kyvern/tree/main/fr/cours).
