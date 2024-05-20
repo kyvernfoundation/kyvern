@@ -13,7 +13,7 @@ Want to shine in society? Talk about [strong authentication](https://github.com/
 ## VPN
 I want the [best vpn](https://github.com/kyvernfoundation/kyvern/blob/main/courses/vpn.md) available.
 #### Why have a door for your home if you don't have a door for your Internet use? It doesn't cost anything and the benefits are there, so it's hard to beat it.
-> You can skip this point if you're not convinced, but your safety won't be convincing either.
+> You can skip this point if you're not convinced, but your safety won't be optimal.
 ## Best practices
 With simplelogin ([website](https://simplelogin.io)), you can have an alias of one e-mail address per application. (recommended)
 - Be sure of what you're downloading.
