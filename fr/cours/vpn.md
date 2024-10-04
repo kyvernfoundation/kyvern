@@ -12,7 +12,7 @@ L'utilisation d'un VPN présente de nombreux avantages :
 
 En résumé, un VPN est un outil essentiel pour tous ceux qui se soucient de leur vie privée, de leur sécurité et de leur liberté en ligne.
 
-Si vous cherchez un VPN qui allie confidentialité, sécurité et liberté, je vous recommande vivement d'essayer Proton VPN.
+Si vous cherchez un VPN qui allie confidentialité, sécurité et liberté, nous vous recommandons vivement d'essayer Proton VPN.
 ## Proton VPN
 <a href="https://protonvpn.com">
     <img src="https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233227/static/logos/proton-vpn-trademark_xiobqc.svg" alt="Proton VPN" width="200"/>
