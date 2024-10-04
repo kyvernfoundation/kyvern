@@ -2,7 +2,7 @@
 
 L'utilisation d'un VPN présente de nombreux avantages :
 
-- **Confidentialité** : Un VPN masque votre adresse IP et crypte votre trafic Internet, empêchant ainsi des tiers de voir ce que vous faites en ligne ou de savoir où vous êtes.
+- **Confidentialité** : Un VPN masque votre adresse IP et chiffre votre trafic Internet, empêchant ainsi des tiers de voir ce que vous faites en ligne ou de savoir où vous êtes.
 
 - **Sécurité** : En chiffrant votre connexion internet, un VPN vous protège contre les attaques de type "man-in-the-middle" et garantit que vos données sensibles restent en sécurité, même lorsque vous utilisez des réseaux Wi-Fi publics non sécurisés.
 
