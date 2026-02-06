@@ -1,4 +1,4 @@
-🌐 [English version](https://github.com/kyvernfoundation/kyvern) / [Русская версия](https://github.com/kyvernfoundation/kyvern/tree/main/ru)
+🌐 [English version](https://github.com/kyvernfoundation/kyvern)
 
 ## Tutoriel
 👉 Si vous voulez améliorer votre cybersécurité, voici [ce que vous devez savoir](https://github.com/kyvernfoundation/kyvern/tree/main/fr/cours)
@@ -25,9 +25,6 @@ Votre cybersécurité ne sera plus une illusion
 - Employé certifié en cybersécurité (Kyvern CCE)
   - Chaque employé d'une organisation, en accord avec son employeur, peut améliorer sa cybersécurité grâce à cette certification
   - Pour recevoir une présentation, veuillez nous contacter à l'adresse cce@kyvern.org
-## Nouvelles
-- Si vous souhaitez voir toutes les [dernières nouvelles de la Fondation Kyvern](https://github.com/kyvernfoundation/news)
-- Si vous n'êtes intéressé que par [les nouvelles du département de cybersécurité de Kyvern](https://github.com/kyvernfoundation/kyvern/tree/main/news)
 ## RGPD et protection des données
 - Les données que vous transmettez à Kyvern restent au sein de l'organisation et ne sont partagées avec personne d'autre
 - Vous pouvez à tout moment consulter les données que nous détenons à votre sujet et demander leur suppression ici rgpd@kyvern.org
