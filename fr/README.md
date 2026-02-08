@@ -27,6 +27,6 @@ Votre cybersécurité ne sera plus une illusion
   - Pour recevoir une présentation, veuillez nous contacter à l'adresse cce@kyvern.org
 ## RGPD et protection des données
 - Les données que vous transmettez à Kyvern restent au sein de l'organisation et ne sont partagées avec personne d'autre
-- Vous pouvez à tout moment consulter les données que nous détenons à votre sujet et demander leur suppression ici rgpd@kyvern.org
+- Vous pouvez à tout moment consulter les données que nous détenons à votre sujet et demander leur suppression à rgpd@kyvern.org
 ## Contact
 Si vous avez des questions ou des demandes : contact@kyvern.org
