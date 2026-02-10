@@ -29,4 +29,4 @@ Votre cybersécurité ne sera plus une illusion
 - Les données que vous transmettez à Kyvern restent au sein de l'organisation et ne sont partagées avec personne d'autre
 - Vous pouvez à tout moment consulter les données que nous détenons à votre sujet et demander leur suppression à rgpd@kyvern.org
 ## Contact
-Si vous avez des questions ou des demandes : contact@kyvern.org
+contact@kyvern.org
