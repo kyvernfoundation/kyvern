@@ -29,5 +29,5 @@ Your cybersecurity will no longer be an illusion
 - The data you transmit to Kyvern remains within the organization and is not shared with anyone else
 - At any time you can see what data we hold about you and request its deletion here rgpd@kyvern.org
 ## Contact
-If you have any questions or requests: contact@kyvern.org
+contact@kyvern.org
  
